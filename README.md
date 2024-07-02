@@ -9,4 +9,5 @@ In this project we look for some insight in data by understanding:<br>
 <li>Products sale per month, year, country, province, category<br></li>
 <li>Customers per year, country, province and category<br></li>
 </ul>
+<br>
 ![Dashboard image for first bullet](/images/1.jpg)
