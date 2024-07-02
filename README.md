@@ -4,10 +4,12 @@ Power Bi Projects:<br>
 <H3> <a href = "https://github.com/mah5a/Adventure_Works"> Download the .pbix file of project</a></H3>
 This is a portfolio for one of my classes at master's program.<br>
 Data was taken from Microsoft samle data set.<br>
-In this project we look for some insight in data by understanding:<br>
+In this project we look for some insight in data based on product sale and customers.:<br>
 <ul>
-<li>Products sale per month, year, country, province, category<br></li>
-<li>Customers per year, country, province and category<br></li>
-</ul>
-<br>
+<li>Products sale per month, year, country, province, category<br></li><br>
 ![Dashboard image for first bullet](/images/1.jpg)
+
+<li>Customers per year, country, province and category<br></li><br>
+![Dashboard image for first bullet](/images/2.jpg)
+
+</ul>
