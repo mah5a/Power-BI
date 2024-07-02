@@ -1,7 +1,7 @@
 Power Bi Projects:<br>
 
 <H2>Project 1</H2><br> 
-<H3> <a href = "https://github.com/mah5a/Adventure_Works"> Download the .pbix file of project</a></H3>
+<H3> <a href = "https://github.com/mah5a/Power-BI/raw/main/AdventureWorks.pbix"> Download the .pbix file of project</a></H3>
 This is a portfolio for one of my classes at master's program.<br>
 Data was taken from Microsoft samle data set.<br>
 In this project we look for some insight in data based on product sale and customers.:<br>
