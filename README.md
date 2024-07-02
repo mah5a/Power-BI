@@ -9,4 +9,4 @@ In this project we look for some insight in data by understanding:<br>
 <li>Products sale per month, year, country, province, category<br></li>
 <li>Customers per year, country, province and category<br></li>
 </ul>
-<img src="/images/1.jpg" alt="Dashboard 1 for Adventure data"> 
+<img src="https://github.com/mah5a/Power-BI/blob/main/images/1.jpg" alt="Dashboard 1 for Adventure data"> 
