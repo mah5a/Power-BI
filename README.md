@@ -1,6 +1,6 @@
 Power Bi Projects:<br>
 
-<H2>Project 1</H2><br>
+<H2>Project 1</H2><br> 
 <H3> <a href = "https://github.com/mah5a/Adventure_Works"> Download the .pbix file of project</a></H3>
 This is a portfolio for one of my classes at master's program.<br>
 Data was taken from Microsoft samle data set.<br>
