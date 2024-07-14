@@ -16,12 +16,15 @@ In this project we look for some insight in data based on product sale and custo
 <li>Customers per year, country, province and category<br></li><br>
 </ul>
 
-![Dashboard image for first bullet](/images/2.jpg)
+![Dashboard image for second bullet](/images/2.jpg)
 
 <H2>Project 2</H2><br> 
 <H3> <a href = "https://github.com/mah5a/Power-BI/raw/main/Budget%20and%20sales.pbix"> Download the .pbix file of project 2</a></H3>
 <br>
 In this project we created a Comparative Analysis Dashboard for products sale usinf various vizualization tools and techniques such as card,matrix chart, donut chart, scatter chart, and creating Tooltip. The image of the final dashboard is shown below:
+<br>
+
+![Dashboard image](/images/budgetandsales.jpg)
 <br>
 ![Dashboard image](/images/budgetandsales.jpg)
 
