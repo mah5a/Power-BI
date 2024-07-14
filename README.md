@@ -34,6 +34,8 @@ In this project we created a Comparative Analysis Dashboard for products sale us
 <br>
 This project is done after COVID 19. It provides a summarization of the situation of countries involved based on number of positive cases :
 <br>
+
+
 ![Dashboard image](/images/COVID.jpg)
 
 <br>
