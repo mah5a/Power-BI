@@ -27,7 +27,6 @@ In this project we created a Comparative Analysis Dashboard for products sale us
 ![Dashboard image](/images/budgetandsales.jpg)
 <br>
 
-![Dashboard image](/images/budgetandsales.jpg)
 
 <H2>Project 3</H2><br> 
 <H3> <a href = "https://github.com/mah5a/Power-BI/raw/main/COVID.pbix"> Download the .pbix file of project 2</a></H3>
@@ -39,5 +38,5 @@ This project is done after COVID 19. It provides a summarization of the situatio
 ![Dashboard image](/images/COVID.jpg)
 
 <br>
-![Dashboard image](/images/COVID.jpg)
+
 
