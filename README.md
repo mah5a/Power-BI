@@ -26,6 +26,7 @@ In this project we created a Comparative Analysis Dashboard for products sale us
 
 ![Dashboard image](/images/budgetandsales.jpg)
 <br>
+
 ![Dashboard image](/images/budgetandsales.jpg)
 
 <H2>Project 3</H2><br> 
@@ -35,5 +36,6 @@ This project is done after COVID 19. It provides a summarization of the situatio
 <br>
 ![Dashboard image](/images/COVID.jpg)
 
-
+<br>
+![Dashboard image](/images/COVID.jpg)
 
